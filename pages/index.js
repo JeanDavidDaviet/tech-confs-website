@@ -28,7 +28,7 @@ export default function Home({ conferences }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
-      <main>
+      <main className="px-2 sm:px-4 py-2.5">
         <ul className="grid gap-4 grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
           {conferences.map((conference, id) => (
             <li key={ id } className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md">

@@ -9,7 +9,15 @@ import Link from 'next/link'
 export async function getStaticProps() {
   const jsonDirectory = path.join(process.cwd(), 'json')
   const fileContents = await fs.readFile(jsonDirectory + '/data.json', 'utf8')
-  const conferences = JSON.parse(fileContents);
+  const conferences = JSON.parse(fileContents).sort((a, b) => {
+    if (a.title < b.title) {
+      return -1;
+    }
+    if (a.title > b.title) {
+      return 1;
+    }
+    return 0;
+  })
 
   return {
     props: {
@@ -32,7 +40,15 @@ export default function Home({ conferences }) {
         <ul className="grid gap-4 xs:grid-cols-2 sm:grid-cols-3 lg:grid-cols-4">
           {conferences.map((conference, id) => (
             <li key={ id } className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md">
-                <Link href={ conference.url } target="_blank" rel="noopener">
+                <Link href={ conference.url } target="_blank" rel="noopener" className="flex justify-center">
+                  { conference.image && (
+                    <Image
+                      src={ conference.image.url }
+                      alt={ conference.title }
+                      width={conference.image.width}
+                      height={conference.image.height}
+                    />
+                  )}
                 </Link>
                 <div className="p-5">
                     <Link href={ conference.url } className="block" target="_blank" rel="noopener">

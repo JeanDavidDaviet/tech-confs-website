@@ -27,7 +27,9 @@ export default function About({ conferences }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
-      <main>
+      <main className="px-2 sm:px-4 py-2.5">
+        <p className="mb-3 text-lg font-light text-gray-500 md:text-xl dark:text-gray-400">This site aims to list all the replays of technical conferences about programming and IT in general you can find on internet.</p>
+        <p className="font-light text-gray-500 dark:text-gray-400">Technical conferences are full of interesting informations and opportunity to learn new things. There isn&#39;t a way to find all replay available for theses. This site wants to fill this gap.</p>
       </main>
       <Footer />
     </>

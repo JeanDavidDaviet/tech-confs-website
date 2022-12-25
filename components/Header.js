@@ -41,7 +41,7 @@ export default function Header({ currentPage }) {
                             <Link href="/" className={(router.pathname === '/' ? "text-white bg-blue-700 md:text-blue-700" : "text-gray-700") + " block py-2 pr-4 pl-3 rounded md:bg-transparent md:p-0"} aria-current="page">Conferences</Link>
                         </li>
                         <li>
-                            <Link href="/about" className={(router.pathname === '/about' ? "text-white bg-blue-700 md:text-blue-700" : "text-gray-700") + " block py-2 pr-4 pl-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 "}>About</Link>
+                            <Link href="/about" className={(router.pathname === '/about' ? "text-white bg-blue-700 md:text-blue-700 md:bg-transparent" : "text-gray-700") + " block py-2 pr-4 pl-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 "}>About</Link>
                         </li>
                         <li>
                             <Link href="https://twitter.com/JeanDavidDaviet" target="_blank" rel="noopener" className="block py-2 pr-4 pl-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0">Contact</Link>

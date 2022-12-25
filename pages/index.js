@@ -29,16 +29,16 @@ export default function Home({ conferences }) {
       </Head>
       <Header />
       <main className="px-2 sm:px-4 py-2.5">
-        <ul className="grid gap-4 grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+        <ul className="grid gap-4 xs:grid-cols-2 sm:grid-cols-3 lg:grid-cols-4">
           {conferences.map((conference, id) => (
             <li key={ id } className="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md">
                 <Link href={ conference.url } target="_blank" rel="noopener">
                 </Link>
                 <div className="p-5">
-                    <Link href={ conference.url } target="_blank" rel="noopener">
+                    <Link href={ conference.url } className="block" target="_blank" rel="noopener">
                         <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900">{ conference.title }</h5>
                     </Link>
-                    <Link href="#" className="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300">
+                    <Link href={ conference.url } target="_blank" rel="noopener" className="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300">
                         Watch
                         <svg aria-hidden="true" className="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
                     </Link>

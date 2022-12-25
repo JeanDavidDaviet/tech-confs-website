@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Footer() {
     return (
-        <footer className="p-4">
+        <footer className="px-2 sm:px-4">
             <div className="p-4 bg-white rounded-lg shadow md:flex md:items-center md:justify-between md:p-6">
                 <span className="text-sm text-gray-500 sm:text-center">© 2023 <Link href="/" className="hover:underline">Techtalks</Link>
                 </span>
@@ -11,10 +11,10 @@ export default function Footer() {
                         <Link href="/" className="mr-4 hover:underline md:mr-6 ">Conferences</Link>
                     </li>
                     <li>
-                        <Link href="#" className="mr-4 hover:underline md:mr-6 ">About</Link>
+                        <Link href="/about" className="mr-4 hover:underline md:mr-6 ">About</Link>
                     </li>
                     <li>
-                        <Link href="#" className="hover:underline">Contact</Link>
+                        <Link href="https://twitter.com/JeanDavidDaviet" target="_blank" rel="noopener" className="hover:underline">Contact</Link>
                     </li>
                 </ul>
             </div>

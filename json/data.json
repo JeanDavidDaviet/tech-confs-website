@@ -1,15 +1,15 @@
 [
 {
     "title": "Strange Loop Conference",
-    "url": "https://www.youtube.com/@StrangeLoopConf",
+    "url": "https://www.youtube.com/playlist?list=PLcGKfGEEONaDO2dvGEdodnqG5cSnZ96W1",
     "year": 2022,
     "tags": [],
     "city": null,
     "languages": ["en"]
 },
 {
-    "title": "Devoxx",
-    "url": "https://www.youtube.com/@DevoxxForever",
+    "title": "Devoxx UK 2022",
+    "url": "https://www.youtube.com/playlist?list=PLRsbF2sD7JVqjj4A8kwffheu-gwq6-yNq",
     "year": 2022,
     "tags": [],
     "city": null,
@@ -17,59 +17,43 @@
 },
 {
     "title": "React Advanced Conference",
-    "url": "https://www.youtube.com/@DevoxxForever",
+    "url": "https://portal.gitnation.org/events/react-advanced-conference-2022",
     "year": 2022,
     "tags": [],
     "city": null,
     "languages": ["en"]
 },
 {
-    "title": "Nordic.js",
-    "url": "https://www.youtube.com/@nordicjs",
+    "title": "Nordic.js 2022",
+    "url": "https://www.youtube.com/playlist?list=PLGP3VO5jDf8y7olqgp-BGh3XsphRrnZ7M",
     "year": 2022,
     "tags": [],
     "city": null,
     "languages": ["en"]
 },
 {
-    "title": "Func Prog Sweden",
-    "url": "https://www.youtube.com/@FuncProgSweden",
+    "title": "NDC Oslo 2022",
+    "url": "https://www.youtube.com/playlist?list=PL03Lrmd9CiGdOxMEQ6JS6GDT3BV8-_Xki",
     "year": null,
     "tags": [],
     "city": null,
     "languages": ["en"]
 },
 {
-    "title": "NDC Conferences",
-    "url": "https://www.youtube.com/@NDC",
+    "title": "Cloud Nord 2022",
+    "url": "https://www.youtube.com/playlist?list=PLVQhat0Bx0WC3CFgIOy_R3x0FyXs6KqOk",
     "year": null,
     "tags": [],
     "city": null,
     "languages": ["en"]
 },
 {
-    "title": "Cloud Nord",
-    "url": "https://www.youtube.com/@cloudnord6827",
-    "year": null,
-    "tags": [],
-    "city": null,
-    "languages": ["en"]
-},
-{
-    "title": "AFUP PHP",
-    "url": "https://www.youtube.com/@afupPHP",
+    "title": "AFUP PHP 2022",
+    "url": "https://www.youtube.com/playlist?list=PL9zDdgiGjkIcN0fBpm7NX3ZC5Fh7e00Mj",
     "year": null,
     "tags": [],
     "city": null,
     "languages": ["en", "fr"]
-},
-{
-    "title": "DEFCONConference",
-    "url": "https://www.youtube.com/@DEFCONConference",
-    "year": null,
-    "tags": [],
-    "city": null,
-    "languages": ["en"]
 },
 {
     "title": "RoboCon 2022",

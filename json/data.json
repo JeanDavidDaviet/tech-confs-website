@@ -2,118 +2,81 @@
 {
     "title": "Strange Loop Conference",
     "url": "https://www.youtube.com/@StrangeLoopConf",
-    "image": {
-        "url": "/img/strange-loop.jpg",
-        "width": 176,
-        "height": 176
-    },
-    "years": [2022],
+    "year": 2022,
     "tags": [],
-    "city": "",
+    "city": null,
     "languages": ["en"]
 },
 {
     "title": "Devoxx",
     "url": "https://www.youtube.com/@DevoxxForever",
-    "image": {
-        "url": "/img/devoxx.jpg",
-        "width": 176,
-        "height": 176
-    },
-    "years": [2022],
+    "year": 2022,
     "tags": [],
-    "city": "",
+    "city": null,
     "languages": ["en"]
 },
 {
     "title": "React Advanced Conference",
     "url": "https://www.youtube.com/@DevoxxForever",
-    "image": {
-        "url": "/img/react-advanced-conference.jpg",
-        "width": 180,
-        "height": 180
-    },
-    "years": [2022],
+    "year": 2022,
     "tags": [],
-    "city": "",
+    "city": null,
     "languages": ["en"]
 },
 {
     "title": "Nordic.js",
     "url": "https://www.youtube.com/@nordicjs",
-    "image": {
-        "url": "/img/nordic-js.jpg",
-        "width": 666,
-        "height": 430
-    },
-    "years": [2022],
+    "year": 2022,
     "tags": [],
-    "city": "",
+    "city": null,
     "languages": ["en"]
 },
 {
     "title": "Func Prog Sweden",
     "url": "https://www.youtube.com/@FuncProgSweden",
-    "image": {
-        "url": "/img/func-proc-sweden.jpg",
-        "width": 176,
-        "height": 176
-    },
-    "years": [],
+    "year": null,
     "tags": [],
-    "city": "",
+    "city": null,
     "languages": ["en"]
 },
 {
     "title": "NDC Conferences",
     "url": "https://www.youtube.com/@NDC",
-    "image": {
-        "url": "/img/ndc-conferences.jpg",
-        "width": 176,
-        "height": 176
-    },
-    "years": [],
+    "year": null,
     "tags": [],
-    "city": "",
+    "city": null,
     "languages": ["en"]
 },
 {
     "title": "Cloud Nord",
     "url": "https://www.youtube.com/@cloudnord6827",
-    "image": {
-        "url": "/img/cloud-nord.jpg",
-        "width": 176,
-        "height": 176
-    },
-    "years": [],
+    "year": null,
     "tags": [],
-    "city": "",
+    "city": null,
     "languages": ["en"]
 },
 {
     "title": "AFUP PHP",
     "url": "https://www.youtube.com/@afupPHP",
-    "image": {
-        "url": "/img/afup-php.jpg",
-        "width": 176,
-        "height": 176
-    },
-    "years": [],
+    "year": null,
     "tags": [],
-    "city": "",
+    "city": null,
     "languages": ["en", "fr"]
 },
 {
     "title": "DEFCONConference",
     "url": "https://www.youtube.com/@DEFCONConference",
-    "image": {
-        "url": "/img/defcon-conference.jpg",
-        "width": 176,
-        "height": 176
-    },
-    "years": [],
+    "year": null,
     "tags": [],
-    "city": "",
+    "city": null,
+    "languages": ["en"]
+},
+{
+    "title": "RoboCon 2022",
+    "url": "https://www.youtube.com/playlist?list=PLSK6YK5OGX1AN9PSVHz1vsoSqbz3tFS_C",
+    "year": 2022,
+    "tags": [],
+    "city": null,
     "languages": ["en"]
 }
 ]

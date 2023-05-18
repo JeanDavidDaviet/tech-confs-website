@@ -62,5 +62,13 @@
     "tags": [],
     "city": null,
     "languages": ["en"]
+},
+{
+    "title": "We Love Speed 2023",
+    "url": "https://www.youtube.com/playlist?list=PLqQ-opbi5cUNHus04oKC7Pi6HIxVaMx-k",
+    "year": 2023,
+    "tags": ["performances"],
+    "city": null,
+    "languages": ["fr"]
 }
 ]

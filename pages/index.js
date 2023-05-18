@@ -37,16 +37,16 @@ export default function Home({ conferences }) {
       </Head>
       <Header />
       <main className="px-2 sm:px-4 py-2.5">
-        <ul className="grid gap-4 xs:grid-cols-2 items-center">
+        <ul className="gap-8 flex flex-col">
           {conferences.map((conference, id) => (
-            <li key={ id } className="flex contents">
-                  <Link href={ conference.url } className="block justify-self-end" target="_blank" rel="noopener">
-                      <h5 className="tracking-tight text-gray-900">{ conference.title }</h5>
-                  </Link>
-                  <Link href={ conference.url } target="_blank" rel="noopener" className="inline-flex items-center py-2 px-3 text-sm font-medium text-center">
-                      Watch replays
-                      <svg aria-hidden="true" className="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
-                  </Link>
+            <li key={ id } className="text-center">
+              <Link href={ conference.url } className="" target="_blank" rel="noopener">
+                <h5 className="tracking-tight text-gray-900">{ conference.title }</h5>
+                <p href={ conference.url } target="_blank" rel="noopener" className="inline-flex items-center sm:px-3 text-sm font-medium text-center">
+                    Watch replays
+                    <svg aria-hidden="true" className="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
+                </p>
+              </Link>
             </li>
           ))}
         </ul>

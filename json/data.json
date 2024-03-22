@@ -5,7 +5,9 @@
     "year": 2022,
     "tags": [],
     "city": null,
-    "languages": ["en"]
+    "languages": ["en"],
+    "img": null,
+    "description": null
 },
 {
     "title": "Devoxx UK 2022",
@@ -13,7 +15,9 @@
     "year": 2022,
     "tags": [],
     "city": null,
-    "languages": ["en"]
+    "languages": ["en"],
+    "img": null,
+    "description": null
 },
 {
     "title": "React Advanced Conference",
@@ -21,7 +25,9 @@
     "year": 2022,
     "tags": [],
     "city": null,
-    "languages": ["en"]
+    "languages": ["en"],
+    "img": null,
+    "description": null
 },
 {
     "title": "Nordic.js 2022",
@@ -29,7 +35,9 @@
     "year": 2022,
     "tags": [],
     "city": null,
-    "languages": ["en"]
+    "languages": ["en"],
+    "img": null,
+    "description": null
 },
 {
     "title": "NDC Oslo 2022",
@@ -37,7 +45,9 @@
     "year": null,
     "tags": [],
     "city": null,
-    "languages": ["en"]
+    "languages": ["en"],
+    "img": null,
+    "description": null
 },
 {
     "title": "Cloud Nord 2022",
@@ -45,7 +55,9 @@
     "year": null,
     "tags": [],
     "city": null,
-    "languages": ["en"]
+    "languages": ["en"],
+    "img": null,
+    "description": null
 },
 {
     "title": "AFUP PHP 2022",
@@ -53,7 +65,9 @@
     "year": null,
     "tags": [],
     "city": null,
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "img": null,
+    "description": null
 },
 {
     "title": "RoboCon 2022",
@@ -61,7 +75,9 @@
     "year": 2022,
     "tags": [],
     "city": null,
-    "languages": ["en"]
+    "languages": ["en"],
+    "img": null,
+    "description": null
 },
 {
     "title": "We Love Speed 2023",
@@ -69,6 +85,134 @@
     "year": 2023,
     "tags": ["performances"],
     "city": null,
-    "languages": ["fr"]
+    "languages": ["fr"],
+    "img": null,
+    "description": null
+},
+{
+    "title": "NDC Security 2024",
+    "url": "https://www.youtube.com/playlist?list=PL03Lrmd9CiGewZWfgnNox8axEWkl52cp2",
+    "year": 2024,
+    "tags": ["security"],
+    "city": null,
+    "languages": ["en"],
+    "img": null,
+    "description": null
+},
+{
+    "title": "GOTO Conferences",
+    "url": "https://www.youtube.com/playlist?list=PL03Lrmd9CiGewZWfgnNox8axEWkl52cp2",
+    "year": 2024,
+    "tags": ["security"],
+    "city": null,
+    "languages": ["en"]
+},
+{
+    "title": "DDD Foundations 2023",
+    "url": "https://www.youtube.com/playlist?list=PLf9p-N3ltMTs_8cplgYTgg04pGf7WxLTa",
+    "year": 2023,
+    "tags": ["ddd"],
+    "city": null,
+    "languages": ["en"],
+    "img": "https://i.ytimg.com/vi/o_vAjX2vHu8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCbLpHWu1LHMydoe1yaocP7Dwr8OQ"
+},
+{
+    "title": "LeadDev San Francisco 2022",
+    "url": "https://www.youtube.com/playlist?list=PLBzScQzZ83I9CF3DksyTA9s54SKedSCAn",
+    "year": 2022,
+    "tags": ["engineering", "management"],
+    "city": "San Francisco",
+    "languages": ["en"],
+    "img": null,
+    "description": null
+},
+{
+    "title": "Conf42 DevOps 2024",
+    "url": "https://www.youtube.com/playlist?list=PLIuxSyKxlQrB0KXIGTre-BxJjlakzQtD8",
+    "year": 2024,
+    "tags": ["devops"],
+    "city": null,
+    "languages": ["en"],
+    "img": null,
+    "description": null
+},
+{
+    "title": "Devoxx Belgium 2023",
+    "url": "https://www.youtube.com/playlist?list=PLRsbF2sD7JVoSl0q9XTZ_RKlucdQL5sBp",
+    "year": 2023,
+    "tags": [],
+    "city": null,
+    "languages": ["en"],
+    "img": null,
+    "description": null
+},
+{
+    "title": "CppCon 2023",
+    "url": "https://www.youtube.com/playlist?list=PLHTh1InhhwT7gQEuYznhhvAYTel0qzl72",
+    "year": 2023,
+    "tags": [],
+    "city": null,
+    "languages": ["en"],
+    "img": "https://i.ytimg.com/vi/I8UvQKvOSSw/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAvnO_FLbTyLVsl7X8jgHbuO691ZA"
+},
+{
+    "title": "RustConf 2023",
+    "url": "https://www.youtube.com/playlist?list=PL85XCvVPmGQgR1aCC-b0xx7sidGfopjCj",
+    "year": 2023,
+    "tags": ["rust"],
+    "city": null,
+    "languages": ["en"],
+    "img": "https://i.ytimg.com/vi/MTnIexTt9Dk/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYfyAkKBYwDw==&rs=AOn4CLCbVuJFg9pCS0fhMMGy8nDBE0q5hQ",
+    "description": "RustConf gathers Rust developers from around the world to learn and share with one another."
+},
+{
+    "title": "ElixirConf EU 2023",
+    "url": "https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtBoR52raL_l7XQIb1YH-H7",
+    "year": 2023,
+    "tags": ["elixir"],
+    "city": null,
+    "languages": ["en"],
+    "img": "https://i.ytimg.com/vi/xItzdrzY1Dc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDRHoHNrQ07GKc-x36sX6YEo2wHSQ",
+    "description": null
+},
+{
+    "title": "DSC DACH 2023",
+    "url": "https://www.youtube.com/playlist?list=PLmT5mor0pdnqEufOOfqGrkIkfsGmEPpB3",
+    "year": 2023,
+    "tags": ["data", "ai"],
+    "city": null,
+    "languages": ["en"],
+    "img": "https://i.ytimg.com/vi/72uNIp0Rrsk/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYciBKKDUwDw==&rs=AOn4CLAxHDoaR63D_zAQjvAoP4oy0QdUsg",
+    "description": "DSC DACH 23 is the Tech-first grassroots Conference that gathers the brightest & sharpest minds in the industry. It is where you can find professionals, academy representatives, and decision-makers."
+},
+{
+    "title": "GeeCON 2023",
+    "url": "https://www.youtube.com/playlist?list=PLxZQe6I1pYpds8rrIQfk5avHCjiAFy2NS",
+    "year": 2023,
+    "tags": ["java"],
+    "city": null,
+    "languages": ["en"],
+    "img": "https://i.ytimg.com/vi/GqzeHctH9Rg/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYHSAsKH8wDw==&rs=AOn4CLBImbyd2kTr-TFfMZ1ApXfdNOkZAg",
+    "description": null
+},
+{
+    "title": "PyBay 2023",
+    "url": "https://www.youtube.com/playlist?list=PL85KuAjbN_gtR8X2E4_jsXfbbZ-XsnvmI",
+    "year": 2023,
+    "tags": ["python"],
+    "city": "San Francisco",
+    "languages": ["en"],
+    "img": "https://i.ytimg.com/vi/0d-v9yeTIeY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA8uNceBA9itnWkdVLG3681qpgRRQ",
+    "description": null
+},
+{
+    "title": "Wasm I/O 2023",
+    "url": "https://www.youtube.com/playlist?list=PLP3xGl7Eb-4NtSX-wzOxUCjPsBcw2zrPA",
+    "year": 2023,
+    "tags": ["wasm", "js"],
+    "city": "Barcelona",
+    "languages": ["en"],
+    "img": "https://i.ytimg.com/vi/v-ywwN4_KQE/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYKyAmKH8wDw==&rs=AOn4CLCe6KFwylKkiZhLPYx1hTjk-IbhRA",
+    "description": null
 }
 ]

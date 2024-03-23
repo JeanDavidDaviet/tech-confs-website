@@ -1,25 +1,43 @@
 {
-  "name": "nextjs",
-  "version": "0.1.0",
-  "private": true,
+  "name": "tech-confs.com",
+  "version": "1.0.0",
+  "description": "Tech-confs website",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanDavidDaviet/tech-confs-website.git"
   },
   "dependencies": {
-    "@next/font": "13.1.0",
-    "@vercel/analytics": "^1.2.2",
-    "eslint": "8.30.0",
-    "eslint-config-next": "13.1.0",
-    "next": "13.1.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "@supabase/supabase-js": "^1.33.3",
+    "@supabase/ui": "^0.37.0-alpha.50",
+    "classnames": "^2.3.1",
+    "marked": "^4.0.12",
+    "next": "^12.3.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "use-debounce": "^7.0.1"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.13",
-    "postcss": "^8.4.20",
-    "tailwindcss": "^3.2.4"
+    "@mertasan/tailwindcss-variables": "^2.2.2",
+    "@radix-ui/colors": "^0.1.8",
+    "@tailwindcss/forms": "^0.5.0",
+    "@tailwindcss/typography": "^0.5.2",
+    "@types/marked": "^4.0.3",
+    "@types/node": "^17.0.23",
+    "@types/react": "^17.0.43",
+    "autoprefixer": "^10.4.4",
+    "deepmerge": "^4.2.2",
+    "mini-svg-data-uri": "^1.4.4",
+    "postcss": "^8.4.12",
+    "prettier": "^2.6.2",
+    "prettier-plugin-tailwindcss": "^0.1.8",
+    "tailwindcss": "^3.0.23",
+    "tailwindcss-radix": "^1.6.0",
+    "typescript": "^4.6.3"
   }
 }

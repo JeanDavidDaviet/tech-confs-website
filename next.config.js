@@ -1,14 +1,21 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
+module.exports = {
   reactStrictMode: true,
   images: {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: '*',
+        hostname: 'i.ytimg.com',
       },
     ],
   },
+  async redirects() {
+    return [
+      {
+        permanent: false,
+        source: '/',
+        destination: '/events',
+      },
+    ]
+  },
 }
-
-module.exports = nextConfig

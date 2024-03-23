@@ -171,9 +171,23 @@ function Event({ event: event }: { event: Event }) {
 }
 
 // This function gets called at build time
-export const getStaticPaths: GetStaticPaths = () => {
+export const getStaticPaths: GetStaticPaths = async () => {
+  const jsonDirectory = path.join(process.cwd(), 'json')
+  const fileContents = await fs.readFile(jsonDirectory + '/data.json', 'utf8')
+  const events = JSON.parse(fileContents);
+
+  const paths: {
+    params: { slug: string }
+    locale?: string | undefined
+  }[] =
+    events.map((event: Event) => ({
+      params: {
+        slug: event.slug,
+      },
+    })) ?? []
+
   return {
-    paths: [{params: {slug: 'test'}}],
+    paths,
     fallback: 'blocking',
   }
 }

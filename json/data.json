@@ -7,7 +7,7 @@
     "tags": [],
     "city": null,
     "languages": ["en"],
-    "img": null,
+    "img": "https://i.ytimg.com/vi/UNMF5AS4SLg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCqo_V-gwElNC4FQgjaFcbF-goCJw",
     "description": null
 },
 {
@@ -18,7 +18,7 @@
     "tags": [],
     "city": null,
     "languages": ["en"],
-    "img": null,
+    "img": "https://i.ytimg.com/vi/5n9PqIUObLA/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYCBUKGUwDw==&rs=AOn4CLC2AvgCGCLSpoBXn-dL5ZiubdG9LA",
     "description": null
 },
 {
@@ -40,7 +40,7 @@
     "tags": [],
     "city": null,
     "languages": ["en"],
-    "img": null,
+    "img": "https://i.ytimg.com/vi/ji6q_P-QY_E/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDPUtJ-MGEHJaY5AK3v_osTcPf2gQ",
     "description": null
 },
 {
@@ -51,7 +51,7 @@
     "tags": [],
     "city": null,
     "languages": ["en"],
-    "img": null,
+    "img": "https://i.ytimg.com/vi/p0oTrCZ5acE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLATvAOoQYgiY6q8Wf0Z9JpZUytOMg",
     "description": null
 },
 {
@@ -62,7 +62,7 @@
     "tags": [],
     "city": null,
     "languages": ["en"],
-    "img": null,
+    "img": "https://i.ytimg.com/vi/cphswpSL9Lg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLALj2L8N8nPD8WK8_VkI8-zgQyb9A",
     "description": null
 },
 {
@@ -73,7 +73,7 @@
     "tags": [],
     "city": null,
     "languages": ["en", "fr"],
-    "img": null,
+    "img": "https://i.ytimg.com/vi/nxs55WKRyQs/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB5gwGQCMGdafT_lXGyR8-xjN_oJA",
     "description": null
 },
 {
@@ -84,7 +84,7 @@
     "tags": [],
     "city": null,
     "languages": ["en"],
-    "img": null,
+    "img": "https://i.ytimg.com/vi/jlhgitypC5Q/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD9vXh9CF-3F3WXS0USwZOkmXcAHw",
     "description": null
 },
 {
@@ -95,7 +95,7 @@
     "tags": ["performances"],
     "city": null,
     "languages": ["fr"],
-    "img": null,
+    "img": "https://i.ytimg.com/vi/q3M4he-QxCA/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYFiAvKH8wDw==&rs=AOn4CLC8GFP7g1rnC974suADtdVTTqjlvA",
     "description": null
 },
 {
@@ -106,17 +106,8 @@
     "tags": ["security"],
     "city": null,
     "languages": ["en"],
-    "img": null,
+    "img": "https://i.ytimg.com/vi/IZyXOYNXbPk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDcEB9SN3GSY9nNPBCdBTiXnsQncA",
     "description": null
-},
-{
-    "title": "GOTO Conferences",
-    "slug": "goto-conferences-2024",
-    "url": "https://www.youtube.com/playlist?list=PL03Lrmd9CiGewZWfgnNox8axEWkl52cp2",
-    "year": 2024,
-    "tags": ["security"],
-    "city": null,
-    "languages": ["en"]
 },
 {
     "title": "DDD Foundations 2023",
@@ -136,7 +127,7 @@
     "tags": ["engineering", "management"],
     "city": "San Francisco",
     "languages": ["en"],
-    "img": null,
+    "img": "https://i.ytimg.com/vi/xGmcSkeMryc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD0LmX4_kiXHMoNYHSW_3TAXTuDqw",
     "description": null
 },
 {
@@ -147,7 +138,7 @@
     "tags": ["devops"],
     "city": null,
     "languages": ["en"],
-    "img": null,
+    "img": "https://i.ytimg.com/vi/F72qEyetHWE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA7LafB42rZl1icG_MGllreEaFQYg",
     "description": null
 },
 {
@@ -158,7 +149,7 @@
     "tags": [],
     "city": null,
     "languages": ["en"],
-    "img": null,
+    "img": "https://i.ytimg.com/vi/-0iWSXBZoLM/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYfyAuKDEwDw==&rs=AOn4CLAN-kMM3B-61lVNmi38vT3gIpEG_Q",
     "description": null
 },
 {

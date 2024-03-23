@@ -1,6 +1,7 @@
 [
 {
-    "title": "Strange Loop Conference",
+    "title": "Strange Loop Conference 2022",
+    "slug": "strange-loop-conference-2022",
     "url": "https://www.youtube.com/playlist?list=PLcGKfGEEONaDO2dvGEdodnqG5cSnZ96W1",
     "year": 2022,
     "tags": [],
@@ -11,6 +12,7 @@
 },
 {
     "title": "Devoxx UK 2022",
+    "slug": "devoxx-uk-2022",
     "url": "https://www.youtube.com/playlist?list=PLRsbF2sD7JVqjj4A8kwffheu-gwq6-yNq",
     "year": 2022,
     "tags": [],
@@ -21,6 +23,7 @@
 },
 {
     "title": "React Advanced Conference",
+    "slug": "react-advanced-conference-2022",
     "url": "https://portal.gitnation.org/events/react-advanced-conference-2022",
     "year": 2022,
     "tags": [],
@@ -31,6 +34,7 @@
 },
 {
     "title": "Nordic.js 2022",
+    "slug": "nordicjs-2022",
     "url": "https://www.youtube.com/playlist?list=PLGP3VO5jDf8y7olqgp-BGh3XsphRrnZ7M",
     "year": 2022,
     "tags": [],
@@ -41,8 +45,9 @@
 },
 {
     "title": "NDC Oslo 2022",
+    "slug": "ndc-oslo-2022",
     "url": "https://www.youtube.com/playlist?list=PL03Lrmd9CiGdOxMEQ6JS6GDT3BV8-_Xki",
-    "year": null,
+    "year": 2022,
     "tags": [],
     "city": null,
     "languages": ["en"],
@@ -51,8 +56,9 @@
 },
 {
     "title": "Cloud Nord 2022",
+    "slug": "cloud-nord-2022",
     "url": "https://www.youtube.com/playlist?list=PLVQhat0Bx0WC3CFgIOy_R3x0FyXs6KqOk",
-    "year": null,
+    "year": 2022,
     "tags": [],
     "city": null,
     "languages": ["en"],
@@ -61,8 +67,9 @@
 },
 {
     "title": "AFUP PHP 2022",
+    "slug": "afup-php-2022",
     "url": "https://www.youtube.com/playlist?list=PL9zDdgiGjkIcN0fBpm7NX3ZC5Fh7e00Mj",
-    "year": null,
+    "year": 2022,
     "tags": [],
     "city": null,
     "languages": ["en", "fr"],
@@ -71,6 +78,7 @@
 },
 {
     "title": "RoboCon 2022",
+    "slug": "robocon-2022",
     "url": "https://www.youtube.com/playlist?list=PLSK6YK5OGX1AN9PSVHz1vsoSqbz3tFS_C",
     "year": 2022,
     "tags": [],
@@ -81,6 +89,7 @@
 },
 {
     "title": "We Love Speed 2023",
+    "slug": "we-love-speed-2023",
     "url": "https://www.youtube.com/playlist?list=PLqQ-opbi5cUNHus04oKC7Pi6HIxVaMx-k",
     "year": 2023,
     "tags": ["performances"],
@@ -91,6 +100,7 @@
 },
 {
     "title": "NDC Security 2024",
+    "slug": "ndc-security-2024",
     "url": "https://www.youtube.com/playlist?list=PL03Lrmd9CiGewZWfgnNox8axEWkl52cp2",
     "year": 2024,
     "tags": ["security"],
@@ -101,6 +111,7 @@
 },
 {
     "title": "GOTO Conferences",
+    "slug": "goto-conferences-2024",
     "url": "https://www.youtube.com/playlist?list=PL03Lrmd9CiGewZWfgnNox8axEWkl52cp2",
     "year": 2024,
     "tags": ["security"],
@@ -109,6 +120,7 @@
 },
 {
     "title": "DDD Foundations 2023",
+    "slug": "ddd-foundations-2023",
     "url": "https://www.youtube.com/playlist?list=PLf9p-N3ltMTs_8cplgYTgg04pGf7WxLTa",
     "year": 2023,
     "tags": ["ddd"],
@@ -118,6 +130,7 @@
 },
 {
     "title": "LeadDev San Francisco 2022",
+    "slug": "leaddev-san-francisco-2022",
     "url": "https://www.youtube.com/playlist?list=PLBzScQzZ83I9CF3DksyTA9s54SKedSCAn",
     "year": 2022,
     "tags": ["engineering", "management"],
@@ -128,6 +141,7 @@
 },
 {
     "title": "Conf42 DevOps 2024",
+    "slug": "conf42-devops-2024",
     "url": "https://www.youtube.com/playlist?list=PLIuxSyKxlQrB0KXIGTre-BxJjlakzQtD8",
     "year": 2024,
     "tags": ["devops"],
@@ -138,6 +152,7 @@
 },
 {
     "title": "Devoxx Belgium 2023",
+    "slug": "devoxx-belgium-2023",
     "url": "https://www.youtube.com/playlist?list=PLRsbF2sD7JVoSl0q9XTZ_RKlucdQL5sBp",
     "year": 2023,
     "tags": [],
@@ -148,6 +163,7 @@
 },
 {
     "title": "CppCon 2023",
+    "slug": "cppcon-2023",
     "url": "https://www.youtube.com/playlist?list=PLHTh1InhhwT7gQEuYznhhvAYTel0qzl72",
     "year": 2023,
     "tags": [],
@@ -157,6 +173,7 @@
 },
 {
     "title": "RustConf 2023",
+    "slug": "rustconf-2023",
     "url": "https://www.youtube.com/playlist?list=PL85XCvVPmGQgR1aCC-b0xx7sidGfopjCj",
     "year": 2023,
     "tags": ["rust"],
@@ -167,6 +184,7 @@
 },
 {
     "title": "ElixirConf EU 2023",
+    "slug": "elixirconf-eu-2023",
     "url": "https://www.youtube.com/playlist?list=PLvL2NEhYV4ZtBoR52raL_l7XQIb1YH-H7",
     "year": 2023,
     "tags": ["elixir"],
@@ -177,6 +195,7 @@
 },
 {
     "title": "DSC DACH 2023",
+    "slug": "dsc-dach-2023",
     "url": "https://www.youtube.com/playlist?list=PLmT5mor0pdnqEufOOfqGrkIkfsGmEPpB3",
     "year": 2023,
     "tags": ["data", "ai"],
@@ -187,6 +206,7 @@
 },
 {
     "title": "GeeCON 2023",
+    "slug": "geecon-2023",
     "url": "https://www.youtube.com/playlist?list=PLxZQe6I1pYpds8rrIQfk5avHCjiAFy2NS",
     "year": 2023,
     "tags": ["java"],
@@ -197,6 +217,7 @@
 },
 {
     "title": "PyBay 2023",
+    "slug": "pybay-2023",
     "url": "https://www.youtube.com/playlist?list=PL85KuAjbN_gtR8X2E4_jsXfbbZ-XsnvmI",
     "year": 2023,
     "tags": ["python"],
@@ -207,6 +228,7 @@
 },
 {
     "title": "Wasm I/O 2023",
+    "slug": "wasm-io-2023",
     "url": "https://www.youtube.com/playlist?list=PLP3xGl7Eb-4NtSX-wzOxUCjPsBcw2zrPA",
     "year": 2023,
     "tags": ["wasm", "js"],
